@@ -23,6 +23,7 @@ export default {
     ])
   },
   mounted () {
+    // mounted object method that checks what animal type is been clicked on 
     const animalType = this[this.$route.params.species][this.$route.params.id]
     this.animal = animalType
   }

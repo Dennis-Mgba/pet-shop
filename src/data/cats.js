@@ -7,7 +7,7 @@ export default [
     age: 20,
     color: 'black/white',
     weight: 13,
-    location: 'fourside',
+    abode: 'fourside',
     notes: 'Sweet kitty. He loves getting his belly rubbed'
   },
   {
@@ -18,7 +18,7 @@ export default [
     age: 20,
     color: 'orange/white',
     weight: 17,
-    location: 'threed',
+    abode: 'threed',
     notes: 'Super freindly'
   },
   {
@@ -29,8 +29,8 @@ export default [
     age: 20,
     color: 'gray',
     weight: 15,
-    location: 'threed',
-    notes: 'Super freindly'
+    abode: 'threed',
+    notes: 'Quite freindly'
   },
   {
     name: 'Kitkat',
@@ -40,7 +40,7 @@ export default [
     age: 9,
     color: 'black',
     weight: 10,
-    location: 'threed',
+    abode: 'threed',
     notes: 'Super freindly'
   }
 ]

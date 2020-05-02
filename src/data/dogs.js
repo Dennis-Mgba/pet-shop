@@ -7,7 +7,7 @@ export default [
     age: 7,
     color: 'black/white',
     weight: 34,
-    location: 'fourside',
+    abode: 'fourside',
     notes: 'Pure breed. Trained for competition'
   },
   {
@@ -18,7 +18,7 @@ export default [
     age: 17,
     color: 'orange/white',
     weight: 37,
-    location: 'threed',
+    abode: 'threed',
     notes: 'Super freindly'
   },
   {
@@ -29,7 +29,7 @@ export default [
     age: 9,
     color: 'gray',
     weight: 68,
-    location: 'threed',
+    abode: 'threed',
     notes: 'Super freindly'
   },
   {
@@ -40,7 +40,7 @@ export default [
     age: 2,
     color: 'black',
     weight: 44,
-    location: 'threed',
-    notes: 'Super freindly'
+    abode: 'threed',
+    notes: 'Super freindly, She loves it when her belly is rubbed'
   }
 ]

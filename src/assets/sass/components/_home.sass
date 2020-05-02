@@ -1,5 +1,14 @@
 @import 'base/variables'
 
+@mixin background($imgpath,$position:0 0,$repeat: no-repeat)
+    background:
+        image: url($imgpath)
+        position: $position
+        repeat: $repeat
+
 // call a class
 .home-view-container
     color: $blue
+    @include background('../../assets/img/pets.jpg')
+    // background-size: cover
+    // position: relative
